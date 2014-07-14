@@ -6,7 +6,7 @@ warn = (arg) ->
   process.kill()
 
 usage = '''
-  Node Ping Test
+  LAZY PING
   By Steve Anderson
 
   hostname <host>         set ping hostname target
