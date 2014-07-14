@@ -4,7 +4,7 @@ A simple node app that pings a hostname until it either 1) recieves an error or 
 Useful for when your office internet is out and you don't want to keep running ping.
 
 ## REQUIREMENTS
-It's written in (coffeescript)[http://coffeescript.org/].
+It's written in (coffeescript)[http://coffeescript.org/] .
 
 ## INSTRUCTIONS
 Accepts `limit` and `hostname` arguments. Hostname is required.
@@ -14,7 +14,7 @@ Example ping to google:
 coffee lazy-ping.coffee hostname google.com
 ```
 
-To limit to 100 pings:
+To limit to 100 pings:i
 ```
 coffee lazy-ping.coffee hostname google.com limit 100
 ```
