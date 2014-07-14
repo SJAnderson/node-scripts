@@ -1,10 +1,10 @@
-## Purpose
+## PURPOSE
 A simple node app that pings a hostname until it either 1) recieves an error or 2) gets a response from the host.
 
 Useful for when your office internet is out and you don't want to keep running ping.
 
 ## REQUIREMENTS
-It's written in (coffeescript)[http://coffeescript.org/] .
+It's written in coffeescript (http://coffeescript.org/).
 
 ## INSTRUCTIONS
 Accepts `limit` and `hostname` arguments. Hostname is required.
